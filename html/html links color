@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<haed>
+<style>
+a{
+color:red;
+text-decoration:none;
+background-color:transparent;
+}
+</style>
+</haed>
+<body>
+<h1>HTML Links</h1>​
+<p><a href="https://www.w3schools.com/"target="_blank" title="Go to W3Schools HTML section">Visit W3Schools.com!</a></p> /*link with parag*/
+<a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a> /*Link wih imag*/
+<p><a href="mailto:someone@example.com">Send email</a></p> /*to send email*/
+<button onclick="document.location='default.asp'">HTML Tutorial</button> /* to creat a button*/
+</body>
+</html>
