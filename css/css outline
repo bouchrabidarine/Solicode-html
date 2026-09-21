@@ -6,8 +6,8 @@ p {
 outline-color:green;
 padding: 5px;
 }
-p.dotted {outline-style: dotted;}
-p.dashed {outline-style: dashed;}
+p.dotted {outline-style: dotted;outline-width:medium; outline-color: blue; outline-offset: 20px;}
+p.dashed {outline-style: dashed; outline-width: thin; outline-color: red; outline-offset: 15px;}
 </style>
 </head>
 <body>
