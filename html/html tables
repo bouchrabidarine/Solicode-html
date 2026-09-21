@@ -11,7 +11,7 @@ table, th, td {
 
 <table style="width:100%">
   <tr>
-    <th>Company</th>
+    <th >Company</th>
     <th>Contact</th>
     <th>Country</th>
   </tr>
@@ -21,3 +21,5 @@ table, th, td {
     <td>Germany</td>
   </tr>
   <tr>
+</body>
+</html>
