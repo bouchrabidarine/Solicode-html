@@ -11,12 +11,14 @@ p.two {
   border-style: solid;
   border-width: medium;
   }
+p.three{
+border:2px solid green /*the is the short hand (border-width,border-style,border-color)*/
+}
   </style>
 </head>
 <body>
 
 <h2>The border-width Property</h2>
-<p>This property specifies the width of the four borders:</p>
-
 <p class="one">Some text.</p>
 <p class="two">Some text.</p>
+<p class="three">This property specifies the width of the four borders:</p>
