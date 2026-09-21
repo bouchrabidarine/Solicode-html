@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>  /* h1 and p are ellements beacause The HTML element is everything from the start tag to the end tag*/
+<p>My first paragraph.</p>
+
+</body>
+</html>
