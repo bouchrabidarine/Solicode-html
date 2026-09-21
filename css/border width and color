@@ -12,7 +12,7 @@ p.two {
   border-width: medium;
   }
 p.three{
-border:2px solid green /*the is the short hand (border-width,border-style,border-color)*/
+border:2px solid green /*the is the shorthand (border-width,border-style,border-color)*/
 }
   </style>
 </head>
