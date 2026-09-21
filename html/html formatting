@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p><strong>This text is important.</strong></p>
+<p><em> thids text is emphasized.</em></p>
+<p><i> this text is italic.</i></p>
+<p><b>This text is bold.</b></p>
+<p><small>this text is smaller</small></p>
+<p><sub>this text is subscripted </sub></p>
+<p><sup>this text is supscripted </sup></p>
+<p><ins>this text is inserted</ins><p>
+<p><del>this text is deleted </del></p>
+<p><mark>this text is marked/highlighted </mark></p>
+</body>
+</html>
