@@ -2,6 +2,11 @@
 <html>
 <head>
 <style>
+h2{
+margin:30px :/*you can just add value to all positions*/
+border: 3px solid black 
+background-color:powderblue;
+}
 div {
   border: 1px solid black;
   margin-top: 100px;
