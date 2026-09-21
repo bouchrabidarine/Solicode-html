@@ -3,7 +3,7 @@
 <head>
 <style>
 h2{
-margin:30px :/*you can just add value to all positions*/
+margin:30px :/*you can just add value to all positions OR (auto) to horizontally center the element within its container*/
 border: 3px solid black 
 background-color:powderblue;
 }
