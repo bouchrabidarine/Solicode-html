@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+<style>
+p.normal {
+  font-style: normal;
+  font-family:Helvetica;
+ font-variant: small-caps;
+  font-width:bold;
+  font-size:15px;
+}
+
+p.italic {
+  font-style: italic;
+  font-family:"sofia";
+   font-width:normal;
+   font-size:20px;
+}
+
+p.oblique {
+  font-style: oblique;
+  font-family:sans-serif;
+   font-width:900;
+  font-size:30px;
+  
+}
+</style>
+</head>
+<body>
+
+<h1>The font-style property</h1>
+
+<p class="normal">This is a paragraph in normal style.</p>
+<p class="italic">This is a paragraph in italic style.</p>
+<p class="oblique">This is a paragraph in oblique style.</p>
+
+</body>
+</html>
