@@ -1,1 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1{
+color:bleu;
+text-align:center;
+text-decoration:overline;
+text-decoration-line:solid;
+}
+p{
+text-align:justify;
+text-transform:uppercase;
+text-indent:6px;
+}
+</style>
+</head>
+<body>
 
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<p>This is a paragraph. Notice that this text is blue. The default text color for a page is defined in the body selector.</p>
+<p>Another paragraph.</p>
+
+</body>
+</html>
