@@ -8,6 +8,9 @@ span {
 h1{
 display:inline;
 }
+p{
+display:flex;
+}
 
 </style>
 </head>
