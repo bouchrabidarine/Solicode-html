@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>HTML Buttons</h1>
+<button>Click Me</button>
+<button onclick="alert('Hello!')"></button>
+<button>Disabled</button>
+<button disabled></button>
+
+</body>
+</html>
