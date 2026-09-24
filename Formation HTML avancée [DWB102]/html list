@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <h1> THIS IS UNORDER LIST </h1>
+    <ul style="list-style-type:square"> 
+      <li> coffee</li>
+      <li> Tea</li>
+      <li> jus</li>
+    </ul>
+  <h1> THIS IS ORDERNL LIST </h1>
+  <ol type="1">
+  <li> tomato</li>
+  <li> apple</li>
+  </ol>
+</body>
+</html>
